@@ -7,5 +7,5 @@ export const SectionWrap = styled.section`
 export const SectionTitle = styled.h2`
   text-align: center;
   font-size: 40px;
-  letter-spacing: 2px;
+  letter-spacing: 3px;
 `;
